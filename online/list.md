@@ -1,6 +1,6 @@
 1. Probability - TuDelft
 2. Statistics - TuDelft
-3. Machine learning
+3. Machine learning - RWTH
 4. Deep learning
 5. Stock trading
 6. Cabana, CabanaPD, Cabana-SPH, Cabana-DEM
