@@ -21,3 +21,4 @@
 21. Functional programming edx
 22. Modern distributed system
 23. Algorithmic Information Theory
+24. https://gitlab.in2p3.fr/grasland/grayscott-with-rust/
