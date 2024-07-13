@@ -1,7 +1,7 @@
 1. Probability - TuDelft
 2. Statistics - TuDelft
 3. Machine learning - RWTH
-4. Deep learning
+4. Deep learning - Montreal
 5. Stock trading
 6. Cabana, CabanaPD, Cabana-SPH, Cabana-DEM
 7. Avian-Rust
@@ -20,3 +20,4 @@
 20. CI CD IBM
 21. Functional programming edx
 22. Modern distributed system
+23. Algorithmic Information Theory
