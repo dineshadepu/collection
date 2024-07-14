@@ -20,5 +20,6 @@
 20. CI CD IBM
 21. Functional programming edx
 22. Modern distributed system
-23. Algorithmic Information Theory
+23. Algorithmic Information Theory (book faang, xed)
 24. https://gitlab.in2p3.fr/grasland/grayscott-with-rust/
+25. Your numerical method in 100 lines
