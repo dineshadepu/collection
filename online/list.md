@@ -24,3 +24,5 @@
 24. https://gitlab.in2p3.fr/grasland/grayscott-with-rust/
 25. Your numerical method in 100 lines
 26. https://hsf-training.github.io/hsf-training-cmake-webpage/index.html
+27. Automated software testing (Delft)
+28. Linear algebra (Delft)
