@@ -26,3 +26,6 @@
 26. https://hsf-training.github.io/hsf-training-cmake-webpage/index.html
 27. Automated software testing (Delft)
 28. Linear algebra (Delft)
+29. Introduction to Computational Science and Engineering (xed)
+30. Thermodynamics
+31. Computational Thinking for Modeling and Simulation (xed)
