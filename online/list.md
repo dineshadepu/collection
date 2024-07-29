@@ -29,3 +29,6 @@
 29. Introduction to Computational Science and Engineering (xed)
 30. Thermodynamics
 31. Computational Thinking for Modeling and Simulation (xed)
+32. Digital Design
+33. Virtual reality
+34. Easy Vlogging
