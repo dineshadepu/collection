@@ -35,3 +35,4 @@
 35. Bouncing ball with sound video.
 36. Music technology
 37. Dr Peric cfd lectures
+38. https://rust-exercises.com/rust-python-interop/
