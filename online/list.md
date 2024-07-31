@@ -29,7 +29,6 @@
 29. Introduction to Computational Science and Engineering (xed)
 30. Thermodynamics
 31. Computational Thinking for Modeling and Simulation (xed)
-32. Digital Design
 33. Virtual reality
 34. Easy Vlogging
 35. Bouncing ball with sound video.
@@ -37,3 +36,8 @@
 37. Dr Peric cfd lectures
 38. https://rust-exercises.com/rust-python-interop/
 39. Multivariable functions delft
+40. Introduction to Metric Spaces MIT
+41. How to CAD Almost Anything
+42. Ray tracing
+43. Unity
+44. Blender
