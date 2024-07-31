@@ -36,3 +36,4 @@
 36. Music technology
 37. Dr Peric cfd lectures
 38. https://rust-exercises.com/rust-python-interop/
+39. Multivariable functions delft
