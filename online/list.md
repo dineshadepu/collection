@@ -14,8 +14,6 @@
 14. Front end apps React
 15. Backend apps Noje js and express
 16. Compilers
-17. Cmake
-18. C++
 19. Ros (TuDelft)
 20. CI CD IBM
 21. Functional programming edx
